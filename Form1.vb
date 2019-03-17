@@ -23,6 +23,7 @@
     Dim waterState As Integer
     Dim blindsPosition As Integer
     Dim blindsPosition1 As Integer
+    Dim sarah As String
     Dim day As String = DateTime.Now.DayOfWeek.ToString()
 
     Private Sub Form1_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
