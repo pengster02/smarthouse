@@ -1,0 +1,23 @@
+C:\Documents and Settings\Student\Local Settings\Application Data\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Documents and Settings\Student\Local Settings\Application Data\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Documents and Settings\Student\Local Settings\Application Data\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Documents and Settings\Student\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Student\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Student\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Documents and Settings\Student\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Student\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Student\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Student\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Documents and Settings\Student\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Documents and Settings\Student\Local Settings\Application Data\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+E:\gr11_Sarah\VB.Net\Final Performance Task\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+E:\gr11_Sarah\VB.Net\Final Performance Task\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+E:\gr11_Sarah\VB.Net\Final Performance Task\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+E:\gr11_Sarah\VB.Net\Final Performance Task\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\gr11_Sarah\VB.Net\Final Performance Task\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\gr11_Sarah\VB.Net\Final Performance Task\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\gr11_Sarah\VB.Net\Final Performance Task\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\gr11_Sarah\VB.Net\Final Performance Task\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\gr11_Sarah\VB.Net\Final Performance Task\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\gr11_Sarah\VB.Net\Final Performance Task\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\gr11_Sarah\VB.Net\Final Performance Task\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
